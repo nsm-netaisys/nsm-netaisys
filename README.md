@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nsm-netaisys
+- 👋 Hi, I’m @devops-netaisys
 - 👀 I’m interested in azure integration with git and AI ML automation
 - 🌱 I’m currently learning Azure, git, and other web and cloud tech
 - 💞️ I’m looking to collaborate on azure AI ML automation
